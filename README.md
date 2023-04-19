@@ -10,14 +10,11 @@ conceitos do paradigma de orientação a objetos,conexão e manipulação do ban
 
 O cadastro das tarefas contém os seguintes dados:
 
-ID ( Auto incrementado) 
-Name 
-Description 
-Completed (check) 
-Notes 
-Deadline 
-CreatedAt 
-UpdatedAt 
+* ID ( Auto incrementado)
+* Name
+* Description
+* CreatedAt
+* UpdatedAt
 
 ✔️Técnicas e tecnologias utilizadas
 Java

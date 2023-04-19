@@ -20,6 +20,7 @@ CreatedAt
 UpdatedAt
 
 ✔️Técnicas e tecnologias utilizadas
+
 Java
 NetBeans
 MYSQL

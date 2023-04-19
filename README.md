@@ -5,6 +5,7 @@ Projeto desenvolvido aplicando os conhecimentos adquiridos no curso Programaçã
 conceitos do paradigma de orientação a objetos,conexão e manipulação do banco de dados MYSQL.
 
 🔨Funcionalidades do projeto
+
 🔨 Gerenciamento de tarefas: Nosso sistema permite você gerenciar seus projetos através das seguintes funcionalidades: cadastrar, alterar, remover e listar projetos.
 
 

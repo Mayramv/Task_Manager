@@ -6,11 +6,11 @@ conceitos do paradigma de orientação a objetos,conexão e manipulação do ban
 
 🔨Funcionalidades do projeto
 
- Gerenciamento de tarefas: Nosso sistema permite você gerenciar seus projetos através das seguintes funcionalidades: cadastrar, alterar, remover e listar projetos.
-
+ Gerenciamento de tarefas: Nosso sistema permite você gerenciar saus tarefas através das seguintes funcionalidades: cadastrar, alterar, remover e listar tarefas
 
 O cadastro das tarefas contém os seguintes dados:
 
+ID ( Auto incrementado)
 Name
 Description
 Completed (check)
@@ -18,13 +18,8 @@ Notes
 Deadline
 CreatedAt
 UpdatedAt
-
 ✔️Técnicas e tecnologias utilizadas
-
 Java
-
 NetBeans
-
 MYSQL
-
 Paradigma de orientação a objetos

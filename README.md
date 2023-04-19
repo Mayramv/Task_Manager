@@ -6,8 +6,7 @@ conceitos do paradigma de orientação a objetos,conexão e manipulação do ban
 
 🔨Funcionalidades do projeto
 
-🔨 Gerenciamento de tarefas: Nosso sistema permite você gerenciar seus projetos através das seguintes funcionalidades: cadastrar, alterar, remover e listar projetos.
-
+ Gerenciamento de tarefas: Nosso sistema permite você gerenciar seus projetos através das seguintes funcionalidades: cadastrar, alterar, remover e listar projetos.
 
 
 O cadastro das tarefas contém os seguintes dados:
